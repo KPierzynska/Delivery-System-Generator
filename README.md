@@ -1,4 +1,4 @@
-# Delivery-System-Gerator
+# Delivery-System-Generator
 
 ## Repository Description: Python Script for Data Generation
 
